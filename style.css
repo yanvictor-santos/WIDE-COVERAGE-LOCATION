@@ -1,0 +1,82 @@
+* {
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+}
+
+a {
+    color: #17233D;
+    padding-right: 32px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.875px;
+}
+
+.signup {
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    border-radius: 6px;
+    border: 1px solid #4CB538;
+    background: #6FBF44;
+    color:  #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 1px;
+} 
+
+.congratulation {
+    width: 595.18px;
+    margin: 100px 0 0 30px;
+    display: inline-block;
+    
+}
+
+div {
+    display: inline-block;
+    margin-left: 84.82px;
+    width: 493px;   
+}
+
+h1 {
+    color: #161A49;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.596154px;
+}
+
+p {
+    color: #4B505A;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 55px;
+    margin-top: 47px;
+    letter-spacing: 0.5px;
+}
+
+.learn {
+    color: #6FBF44;
+    margin-top: 55px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
